@@ -49,15 +49,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AliothNfc \
     SettingsOverlayM2012K11AC \
-    SettingsOverlayM2012K11AG \
-    SettingsOverlayM2012K11AI \
     SettingsProviderM2012K11AC \
-    SettingsProviderM2012K11AG \
-    SettingsProviderM2012K11AI \
-    WifiOverlayM2012K11AC \
-    WifiOverlayM2012K11AG \
-    WifiOverlayM2012K11AI
-
+    WifiOverlayM2012K11AC
 
 # Shipping API level
 PRODUCT_SHIPPING_API_LEVEL := 30
